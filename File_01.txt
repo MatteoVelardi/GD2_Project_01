@@ -1,5 +1,7 @@
 First test file.
 
+Modified by main.
+
 Another line of text.
 
 Change from Branch_01.
