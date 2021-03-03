@@ -4,4 +4,6 @@ Modified by main.
 
 Another line of text.
 
+Text line in the middle.
+
 Change from Branch_01.
